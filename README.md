@@ -1,3 +1,5 @@
+NumOfDigits. PHP Tutorials. Simple Input/Output. Algorithms. Console Application. 
+
 A console application project written in the PHP programming language and implemented in the Apache NetBeans integrated environment (or in the Microsoft Visual Code editor). The PHP script provides simple input/output. Determining the number of digits in a number entered from the keyboard.
 
 The program does the following:
